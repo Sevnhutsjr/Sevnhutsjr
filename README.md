@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I love DS105 !)
 <h1> This is Kolya </h1>
+I love DS105 !)
 
 <!--
 **Sevnhutsjr/Sevnhutsjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
