@@ -22,9 +22,7 @@ Working at the LSE Data Science Institute on a research project exploring the re
 
 **LSE DS105 Course Project: Where Should You Go For Weekend Getaway This Summer?**
 
-Data Science project trying to find the Ideal Weekend Getaway. Gathered data through Skyscanner API and engaged in data cleaning and analysis to uncover travel nuances.
-
-[Link to project website](https://yuhan1224.github.io/LSE-DS105-Wandermetrics/)
+Data Science project trying to find the Ideal Weekend Getaway. Gathered data through Skyscanner API and engaged in data cleaning and analysis to uncover travel nuances. [Project Website](https://yuhan1224.github.io/LSE-DS105-Wandermetrics/)
 
 
 
