@@ -4,16 +4,20 @@
 
 🔍 Research Assistant at the LSE Data Science Institute 
 
-🤖 Fascinated by Data Science and Machine Learning
-
-📊 Experienced in data analysis and visualization
+🤖 Fascinated by Data Science, Machine Learning and Data-driven decision making
 
 🖥️ Proficient in Python, R, and SQL
 
-📝 Passionate about leveraging data for social impact
-
 📈 Always eager to learn and explore new technologies
 
+--------
 
+## Projects
+
+**Project: DISCORDIA - Uncovering Patterns of Parliamentary Dissent**
+
+Created a parliamentary speech database through web scraping and constructed machine learning algorithms such as SVM, MLP and Random Forest models to predict MP dissent within the UK Parliament 
+
+Working in a group research projecct exploring the realm of political dissent within the UK Parliament. We created a parliamentary speech database upon which we aim to iidentify indicators in MP's speeches that may suggest a likelihood of them rebelling against party lines. Using a combination of data science and political analysis, we aim to gain insights into the nuances of parliamentary dissent. We're experimenting with various machine learning models and investigating the use of explainable AI to enhance our analysis. 
 
 
