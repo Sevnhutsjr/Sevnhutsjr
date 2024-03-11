@@ -16,8 +16,13 @@
 
 **Project: DISCORDIA - Uncovering Patterns of Parliamentary Dissent**
 
-Created a parliamentary speech database through web scraping and constructed machine learning algorithms such as SVM, MLP and Random Forest models to predict MP dissent within the UK Parliament 
-
 Working at the LSE Data Science Institute on a research project exploring the realm of political dissent within the UK Parliament. We created a parliamentary speech database upon which we aim to iidentify indicators in MP's speeches that may suggest a likelihood of them rebelling against party lines. Using a combination of data science and political analysis, we aim to gain insights into the nuances of parliamentary dissent. We're experimenting with various machine learning models and investigating the use of explainable AI to enhance our analysis. 
+
+**LSE DS105 Course Project: Where Should You Go For Weekend Getaway This Summer?**
+
+Data Science project trying to find the Ideal Weekend Getaway. Gathered data through Skyscanner API and engaged in data cleaning and analysis to uncover travel nuances.
+
+[Link to project website]([https://github.com/](https://yuhan1224.github.io/LSE-DS105-Wandermetrics/)https://yuhan1224.github.io/LSE-DS105-Wandermetrics/)
+
 
 
