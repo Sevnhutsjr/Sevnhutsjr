@@ -24,7 +24,7 @@ Working at the LSE Data Science Institute on a research project exploring the re
 
 Data Science project trying to find the Ideal Weekend Getaway. Gathered data through Skyscanner API and engaged in data cleaning and analysis to uncover travel nuances.
 
-[Link to project website]([https://github.com/](https://yuhan1224.github.io/LSE-DS105-Wandermetrics/)https://yuhan1224.github.io/LSE-DS105-Wandermetrics/)
+[Link to project website](https://github.com/](https://yuhan1224.github.io/LSE-DS105-Wandermetrics/)https://yuhan1224.github.io/LSE-DS105-Wandermetrics/)
 
 
 
