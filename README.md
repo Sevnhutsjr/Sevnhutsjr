@@ -4,7 +4,7 @@
 
 🔍 Research Assistant at the LSE Data Science Institute 
 
-🤖 Fascinated by Data Science, Machine Learning and Data-driven decision making
+🤖 Passionate about Data Science, Machine Learning and Data-driven decision making
 
 🖥️ Proficient in Python, R, and SQL
 
