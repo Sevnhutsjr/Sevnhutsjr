@@ -8,7 +8,6 @@
 
 🖥️ Proficient in Python, R, and SQL
 
-📈 Always eager to learn and explore new technologies
 
 --------
 
